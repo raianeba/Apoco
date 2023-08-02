@@ -9,6 +9,10 @@
   <ItemGroup>
     <Folder Include="Data\" />
     <Folder Include="Model\" />
+    <Folder Include="Pages\Cronograma\" />
+    <Folder Include="Pages\Dicas\" />
+    <Folder Include="Pages\Fórum\" />
+    <Folder Include="Pages\Quem nos somos\" />
   </ItemGroup>
 
   <ItemGroup>
